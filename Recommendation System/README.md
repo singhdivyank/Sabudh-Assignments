@@ -5,14 +5,16 @@
 2. A ppt summarizing my work
 3. Jupyter notebooks containing the code
   
-    a. One with user_profile. 
+    a. One with user profile. 
     
-    b. One making the recommendations.
+    b. One preparing ratings.
+    
+    c. One making the recommendations.
 
 4. Datasets used
 
-    a. news_articles.csv the dataset used in the problem
+    a. news_articles.csv - dataset containing news articles
     
-    b. user_profile.csv the file user profile
+    b. User_interest.csv - user profile
     
-    c. Ratings.csv the ratings for collaborative filtering
+    c. Rated_articles.csv - ratings for collaborative filtering
