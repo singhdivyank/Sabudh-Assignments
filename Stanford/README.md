@@ -12,6 +12,7 @@ Professor - Christopher Manning
 * Assignment 3: Dependency Parsing in Pytorch
 * Assignment 4: Neural Machine Translation with RNNs and NMT systems -- Requires VM
 * Assignment 5 (public version): Character based encoder and decoder for NMT systems -- Requires VM
+* Project: Custom Standford University project. A Question-Answering system 
 
 ### Link for assignments
 <https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/index.html#schedule>
